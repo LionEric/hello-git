@@ -356,3 +356,8 @@ html
 {
 	background-image: url(../images/indexbg05.jpg);
 }
+
+h1
+{
+	background-color: skyblue;
+}
